@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 #!/usr/bin/env python
 """
 Copyright 2023, UC San Diego, Contextual Robotics Institute
